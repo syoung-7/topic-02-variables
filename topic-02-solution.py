@@ -7,6 +7,7 @@
 name = "Steve Young"           # Replace with your name
 favorite_number = 15  # Replace with your favorite number
 hobby = bowling
+age = 40
 
 # Step 2: Write an expression using your variables
 # Example: double = favorite_number * 2
